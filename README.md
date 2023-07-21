@@ -20,9 +20,8 @@ cuadrados.
 | Característica         | Información                                                              |
 |------------------------|--------------------------------------------------------------------------|
 | Nombre                 | Tarea 3 Fuente, Animación, Imagen                                        |
-| Descripción            |Creación de primer mensaje de hola mundo para wearables cuadrados y.      |
-                          redondos. Se implemento una aplicación para un dispositivo wearable que   |
-                          imprime un mensaje de "Hola,alumno" en dispositivos redondos y cuadrados. |
+| Descripción            | Creación de primer mensaje de hola mundo para wearables cuadrados y.     |
+|                        |  redondos. Se implemento una aplicación para un dispositivo wearable que |                     |                        | imprime un mensaje de "Hola,alumno" en dispositivos redondos y cuadrados.|
 
 
 
